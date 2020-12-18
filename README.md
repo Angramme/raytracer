@@ -4,5 +4,4 @@ This is a really simple ray-tracer that I made back in high school. The scene is
 
 ![img](/images/colored_phong.bmp)
 ![img](/images/infinity_mirror.bmp)
-![img](/images/lookin nice4.bmp)
 ![img](/images/intensity.bmp)
